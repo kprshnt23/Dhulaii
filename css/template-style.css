@@ -444,6 +444,10 @@ aside.aside-left {
   border-color: #282828 !important;
 }
 
+#dhul {
+	background-color: #fcb315;
+}	
+
 
 /* Buttons */
 .button, a.button, a.button:link, a.button:visited {
