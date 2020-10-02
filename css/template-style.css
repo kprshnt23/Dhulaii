@@ -514,7 +514,7 @@ aside.aside-left {
   padding: 2.5rem 1.25rem;
 }
 .section-top-padding  { 
-  padding: 6rem 1.25rem 0  1.25rem;
+  padding: 5rem 1.25rem 0  1.25rem;
 }
 .section-top-small-padding  { 
   padding: 2.5rem  1.25rem 0  1.25rem;
@@ -1431,10 +1431,10 @@ form.customform input:hover, form.customform textarea:hover, form.customform sel
 /* Custom Template Styles */
 /* Containers */ 
 .section  { 
-  padding: 7rem 1.25rem;
+  padding: 2rem 1.25rem;
 }
 .section-top-padding  { 
-  padding: 7rem 1.25rem 0  1.25rem;
+  padding: 2rem 1.25rem 0  1.25rem;
 }
 .section-block { 
   padding: 7rem 2.5rem;
@@ -1781,6 +1781,17 @@ a.tab-label, a.tab-label:link, a.tab-label:visited, a.tab-label:hover, .backgrou
   width: auto;
 }
 
+#dl {
+  /* width: 200px; */
+  /* height: 80px; */
+  padding-left:30% !important;
+    padding-right: 30% !important;
+    justify-content: center !important;
+    justify-self: auto !important;
+    justify-items: center !important;
+
+} 
+
 /* Tabs */
 a.tab-label.active-btn {
   color: #fff!important;
@@ -1850,3 +1861,11 @@ a.tab-label.active-btn {
     padding: 30px !important;
   }
 } 
+
+#CHT {
+  justify-content: left;
+}
+
+#RHT {
+  justify-content: right;
+}
