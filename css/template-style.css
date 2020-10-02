@@ -529,7 +529,7 @@ aside.aside-left {
   padding: 1.25rem!important;
 }
 .padding-2x {
-  padding: 2.5rem!important;
+  padding: 2rem!important;
 }
 .padding-3x {
   padding: 80px!important;
@@ -1863,9 +1863,9 @@ a.tab-label.active-btn {
 } 
 
 #CHT {
-  justify-content: left;
+  text-align: left;
 }
 
 #RHT {
-  justify-content: right;
+  text-align: right;
 }
