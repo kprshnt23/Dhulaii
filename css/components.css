@@ -252,10 +252,10 @@ a.button.reload-btn:visited {
   background: rgba(0, 0, 0, 0.06) none repeat scroll 0 0;
 }
 
-.GeneratedMarquee {
-  font-family: cursive;
-  font-size: 1em;
-  line-height: 1.3em;
-  color: #000000;
-  background-color: transparent;
+#GeneratedMarquee {
+  font-family: cursive !important;
+  font-size: 1em !important;
+  line-height: 1.3em !important;
+  color: #000000 !important;
+  background-color: transparent !important;
 }
