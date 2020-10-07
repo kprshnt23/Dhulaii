@@ -254,8 +254,8 @@ a.button.reload-btn:visited {
 
 #GeneratedMarquee {
   font-family: cursive !important;
-  font-size: 1em !important;
+  font-size: 1.5em !important;
   line-height: 1.3em !important;
-  color: #000000 !important;
+  color: white !important;
   background-color: transparent !important;
 }
